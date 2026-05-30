@@ -1,6 +1,4 @@
----
-theme: jekyll-theme-cayman
----
+
 
 # 📑 ประวัติส่วนตัวของฉัน
 
