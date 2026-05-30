@@ -14,5 +14,6 @@ theme: jekyll-theme-cayman
 💻 สิ่งที่สนใจ
 การพัฒนาเว็บไซต์ (Web Development)
 การเล่นเกม (Gamer)
+ฟังเพลง
 
 
