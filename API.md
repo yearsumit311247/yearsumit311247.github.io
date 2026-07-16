@@ -3,10 +3,16 @@
 ## Definition
 
 ### English (Source 1 - IBM)
-"An application programming interface (API) is a set of rules or protocols that enables software applications to communicate with each other to exchange data, features and functionality."
+
+> "An API, or application programming interface, is a set of rules or protocols that enables software applications to communicate with each other to exchange data, features and functionality."
+
+**Source:** https://www.ibm.com/think/topics/api
 
 ### English (Source 2 - Red Hat)
-"An API is a set of definitions and protocols for building and integrating application software."
+
+> "API stands for application programming interface, which is a set of definitions and protocols for building and integrating application software."
+
+**Source:** https://www.redhat.com/en/topics/api/what-are-application-programming-interfaces
 
 ### Thai
 
@@ -14,11 +20,9 @@ API (Application Programming Interface) คือ ชุดกฎหรือม
 
 ## Explanation
 
-"API เป็นตัวกลางที่ช่วยให้เว็บไซต์หรือแอปพลิเคชันสามารถเชื่อมต่อกับบริการอื่น ๆ ได้ เช่น การเข้าสู่ระบบด้วย Google การดึงข้อมูลสภาพอากาศ หรือการรับส่งข้อมูลระหว่าง Frontend และ Backend ทำให้การพัฒนาระบบมีความยืดหยุ่นและรวดเร็วมากขึ้น" 
-
-"API ช่วยลดความซับซ้อนในการเชื่อมต่อระบบ เพราะนักพัฒนาเพียงเรียกใช้งานผ่าน Endpoint ที่กำหนดไว้ โดยไม่จำเป็นต้องเข้าถึงโค้ดภายในของระบบปลายทาง ส่งผลให้สามารถพัฒนาและดูแลระบบได้ง่ายขึ้น" (Google Gemini)
+API เป็นตัวกลางที่ช่วยให้เว็บไซต์หรือแอปพลิเคชันสามารถเชื่อมต่อกับบริการอื่น ๆ ได้ เช่น การเข้าสู่ระบบด้วย Google การดึงข้อมูลสภาพอากาศ หรือการรับส่งข้อมูลระหว่าง Frontend และ Backend ทำให้การพัฒนาระบบมีความยืดหยุ่นและรวดเร็วมากขึ้น
 
 ## References
 
-- https://www.ibm.com/topics/api
+- https://www.ibm.com/think/topics/api
 - https://www.redhat.com/en/topics/api/what-are-application-programming-interfaces
