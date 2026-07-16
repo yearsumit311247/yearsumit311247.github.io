@@ -2,23 +2,15 @@
 
 ## Definition
 
-### English (Source 1 - Bootstrap Official)
-"Bootstrap is a powerful, feature-packed frontend toolkit. Build anything—from prototype to production—in minutes."
+### Thai (Source 1)
 
-### English (Source 2 - GeeksforGeeks)
-"Bootstrap is a free and open-source CSS framework directed at responsive, mobile-first front-end web development."
+> "Bootstrap คือ CSS Framework ที่ถูกสร้างขึ้นมาเพื่อช่วยอำนวยความสะดวกแก่ Developer ในการตกแต่งและจัด Layout ของ Website ให้สวยงามและรวดเร็ว โดยไม่ต้องเสียเวลาเขียน Code และออกแบบ Layout เอง"
 
-### Thai
+### Thai (Source 2)
 
-Bootstrap คือ Framework สำหรับการพัฒนาเว็บไซต์ที่รวบรวม CSS และ JavaScript ไว้พร้อมใช้งาน ช่วยให้สามารถสร้างเว็บไซต์ที่สวยงาม รองรับทุกขนาดหน้าจอ และพัฒนาได้รวดเร็ว
-
-## Explanation
-
-"Bootstrap ช่วยลดเวลาในการออกแบบหน้าเว็บ เพราะมี Component สำเร็จรูป เช่น ปุ่ม เมนู ตาราง ฟอร์ม และระบบ Grid ทำให้นักพัฒนาสามารถสร้างเว็บไซต์ที่ตอบสนองต่ออุปกรณ์ทุกชนิดได้อย่างง่ายดาย" (ChatGPT 5.5)
-
-"Bootstrap ได้รับความนิยมอย่างมากในการพัฒนาเว็บไซต์ เนื่องจากใช้งานง่าย มีเอกสารครบถ้วน และสามารถปรับแต่งให้เหมาะกับแต่ละโครงการได้" (Google Gemini)
+> "Bootstrap คือ ชุดเครื่องมือโอเพ่นซอร์สที่มีชื่อเสียงที่ใช้สำหรับการออกแบบเว็บไซต์แบบ Responsive หรือให้เหมาะสมกับมือถือและแท็บเล็ต โดยนำในส่วนของ HTML, CSS และ JavaScript มาพัฒนาเป็นแหล่งเครื่องมือสำหรับการออกแบบหน้าเว็บไซต์"
 
 ## References
 
-- https://getbootstrap.com/
-- https://www.geeksforgeeks.org/bootstrap/
+- https://6131305047.medium.com/bootstrap-%E0%B8%84%E0%B8%B7%E0%B8%AD%E0%B8%AD%E0%B8%B0%E0%B9%84%E0%B8%A3-98e14b9d1cc4
+- https://webdodee.com/what-is-bootstrap/
