@@ -4,7 +4,7 @@
 “The most common model for session management is centralized session management, in which the user's session state is stored in the server.”
 
 *English (Source 2 - PHP Manual)*
-“Session support in PHP consists of a way to preserve certain data across subsequent accesses. A visitor accessing your web site is assigned a unique id, the so-called session id.”
+“Session support in PHP consists of a way to preserve certain data across subsequent accesses.”
 
 *Thai*
 Session คือกลไกในการจัดการข้อมูลของผู้ใช้งาน โดยข้อมูลสถานะ (Session State) จะถูกจัดเก็บไว้บนเซิร์ฟเวอร์ และเมื่อผู้ใช้เข้าใช้งานเว็บไซต์ ระบบจะกำหนดรหัสประจำตัวที่ไม่ซ้ำกัน (Session ID) ให้กับผู้ใช้แต่ละคน เพื่อใช้เก็บและเรียกคืนข้อมูลระหว่างการเข้าถึงเว็บไซต์ในครั้งถัดไป ทำให้เว็บไซต์สามารถจดจำสถานะของผู้ใช้งานได้จนกว่าจะสิ้นสุดเซสชัน
