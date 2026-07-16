@@ -4,7 +4,7 @@
 “Bootstrap is a powerful, feature-packed frontend toolkit. Build anything—from prototype to production—in minutes.”
 
 *English (Source 2 - GeeksforGeeks)*
-“Bootstrap is a free and open-source CSS framework directed at responsive, mobile-first front-end web development.”
+“Bootstrap is a popular front-end framework for building responsive and mobile-first websites. It provides pre-designed CSS, JavaScript components, and utility classes to quickly create modern and consistent user interfaces.”
 
 *Thai*
 Bootstrap คือเฟรมเวิร์ก (Framework) สำหรับการพัฒนาเว็บไซต์ฝั่ง Front-end ที่รวบรวม HTML, CSS และ JavaScript ไว้ในชุดเครื่องมือเดียว ช่วยให้นักพัฒนาสามารถสร้างเว็บไซต์ที่สวยงาม รองรับการแสดงผลแบบ Responsive และพัฒนาได้อย่างรวดเร็ว
