@@ -19,4 +19,4 @@ Usability คือ คุณลักษณะด้านคุณภาพข
 
 ###  ผู้จัดทำ 
 - [นายกิติศักดิ์ ด้วงนวม](https://kitisakg.github.io/Usabillity)
-- [นายสุมิตร พาลิวงศ์](https://parada-em.github.io/Security.html)
+- [นายสุมิตร พาลิวงศ์](https://yearsumit311247.github.io/Usabillity)
