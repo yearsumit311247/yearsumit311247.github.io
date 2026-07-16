@@ -21,6 +21,6 @@
 
 # 📂 IT Keywords Project
 
-- [API](VPN.md)
+- [API](API.md)
 - [Server](Server.md)
 - [Internet](Internet.md)
