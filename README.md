@@ -22,5 +22,5 @@
 # 📂 IT Keywords Project
 
 - [API](API.md)
-- [Server](Server.md)
-- [Internet](Internet.md)
+- [SESSION](session.md)
+- [BOOTSTARP](bootstrap.md)
