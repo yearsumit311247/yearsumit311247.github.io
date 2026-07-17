@@ -1,17 +1,17 @@
 ## 2. Session
 
-*English (Source 1 - MDN Web Docs)*
-“The most common model for session management is centralized session management, in which the user's session state is stored in the server.”
+*English (Source 1 - MDN Web Docs)*  
+> “A website needs to treat a series of requests from a single client as representing a session.”
 
-*English (Source 2 - PHP Manual)*
-“Session support in PHP consists of a way to preserve certain data across subsequent accesses.”
+*English (Source 2 - PHP Manual)*  
+> “Session support in PHP consists of a way to preserve certain data across subsequent accesses.”
 
-*Thai*
-Session คือกลไกในการจัดการข้อมูลของผู้ใช้งาน โดยข้อมูลสถานะ (Session State) จะถูกจัดเก็บไว้บนเซิร์ฟเวอร์ และเมื่อผู้ใช้เข้าใช้งานเว็บไซต์ ระบบจะกำหนดรหัสประจำตัวที่ไม่ซ้ำกัน (Session ID) ให้กับผู้ใช้แต่ละคน เพื่อใช้เก็บและเรียกคืนข้อมูลระหว่างการเข้าถึงเว็บไซต์ในครั้งถัดไป ทำให้เว็บไซต์สามารถจดจำสถานะของผู้ใช้งานได้จนกว่าจะสิ้นสุดเซสชัน
+*Thai*  
+Session คือกลุ่มของการร้องขอ (Requests) จากผู้ใช้งานคนเดียวกันที่เว็บไซต์มองว่าเป็นการใช้งานต่อเนื่อง โดยระบบจะเก็บข้อมูลบางอย่างไว้เพื่อให้สามารถจดจำสถานะของผู้ใช้ระหว่างการเข้าถึงเว็บไซต์หลายครั้งได้
 
-> “Session เป็นกลไกสำคัญในการพัฒนาเว็บไซต์ เนื่องจากโปรโตคอล HTTP ไม่สามารถจดจำสถานะของผู้ใช้งานได้เอง จึงต้องอาศัย Session ในการเก็บข้อมูล เช่น การเข้าสู่ระบบ สิทธิ์การใช้งาน หรือข้อมูลชั่วคราวต่าง ๆ เพื่อให้ผู้ใช้สามารถใช้งานเว็บไซต์ได้อย่างต่อเนื่อง” (ChatGPT 5.5)
+> “Session เป็นกลไกสำคัญในการพัฒนาเว็บไซต์ เนื่องจาก HTTP เป็นโปรโตคอลแบบ Stateless ที่ไม่สามารถจดจำผู้ใช้ระหว่างการร้องขอแต่ละครั้งได้ จึงต้องอาศัย Session ในการเก็บข้อมูล เช่น สถานะการเข้าสู่ระบบ สิทธิ์การใช้งาน และข้อมูลชั่วคราวต่าง ๆ เพื่อให้ผู้ใช้สามารถใช้งานเว็บไซต์ได้อย่างต่อเนื่อง” (ChatGPT 5.5)
 
-> “Session มักทำงานร่วมกับ Cookie โดย Cookie จะเก็บเฉพาะ Session ID ส่วนข้อมูลจริงจะถูกจัดเก็บไว้บนเซิร์ฟเวอร์ จึงช่วยเพิ่มความปลอดภัยในการจัดการข้อมูลผู้ใช้งาน และเป็นเทคนิคที่นิยมใช้ในระบบเว็บสมัยใหม่” (Google Gemini)
+> “Session มักทำงานร่วมกับ Cookie โดย Cookie จะเก็บ Session ID ส่วนข้อมูลจริงจะถูกจัดเก็บไว้บนเซิร์ฟเวอร์ ทำให้เว็บไซต์สามารถระบุตัวตนของผู้ใช้งานได้อย่างปลอดภัย และลดความเสี่ยงจากการเก็บข้อมูลสำคัญไว้บนฝั่งผู้ใช้” (Google Gemini)
 
 ### *🔗 Sources*
 
