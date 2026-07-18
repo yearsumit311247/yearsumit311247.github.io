@@ -1,8 +1,9 @@
+
 ## 2. Revision History
 
-*English (Source 1 - TechTarget)*
+*English (Source 1 - Connect981)*
 
-> “Revision history is a record of changes that have been made to a document or file over time.”
+> “Revision history is the controlled record of changes made to a document, specification, software component, or system configuration over time.”
 
 *English (Source 2 - Hyperbots)*
 
@@ -10,7 +11,7 @@
 
 *Thai*
 
-Revision History คือบันทึกประวัติการเปลี่ยนแปลงที่เกิดขึ้นกับเอกสารหรือไฟล์ตามช่วงเวลา โดยเป็นการจัดเก็บข้อมูลการแก้ไขอย่างเป็นระบบ เพื่อให้สามารถตรวจสอบ ติดตาม และย้อนกลับไปดูการเปลี่ยนแปลงที่เกิดขึ้นในแต่ละครั้งได้
+Revision History คือบันทึกการเปลี่ยนแปลงที่มีการควบคุมของเอกสาร ข้อกำหนด ซอฟต์แวร์ หรือการกำหนดค่าของระบบตามช่วงเวลา รวมถึงการจัดเก็บประวัติการเปลี่ยนแปลงของเอกสาร รายงาน งบประมาณ หรือชุดข้อมูลอย่างเป็นระบบ เพื่อให้สามารถติดตาม ตรวจสอบ และอ้างอิงการเปลี่ยนแปลงที่เกิดขึ้นได้
 
 > “Revision History ช่วยให้สามารถติดตามการเปลี่ยนแปลงของเอกสารได้อย่างเป็นระบบ ลดความผิดพลาดในการทำงานร่วมกัน และช่วยตรวจสอบว่าใครเป็นผู้แก้ไขข้อมูลในแต่ละครั้ง” (ChatGPT 5.5)
 
@@ -18,5 +19,6 @@ Revision History คือบันทึกประวัติการเป
 
 ### *🔗 Sources*
 
-* https://www.techtarget.com/searchdatamanagement/definition/revision-history
+* https://connect981.com/glossary/revision-history
 * https://www.hyperbots.com/glossary/revision-history
+  
