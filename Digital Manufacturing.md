@@ -1,22 +1,22 @@
 ## 1. Digital Manufacturing
 
-*English (Source 1 - IBM)*
+*English (Source 1)*
 
-> “Digital manufacturing is the application of computer systems to manufacturing services, supply chains, products and processes.”
+> “Digital manufacturing integrates simulation, 3D visualization, analytics and collaboration tools to create simultaneous product and manufacturing process definitions, enabling industries to design entire manufacturing processes digitally, fostering collaboration between engineers and designers.”
 
-*English (Source 2 - Siemens)*
+*English (Source 2)*
 
-> “Digital manufacturing uses digital tools and data to improve manufacturing processes throughout the product lifecycle.”
+> “Digital manufacturing refers to the use of digital technologies to create, design, test, and produce products. It encompasses a wide range of processes, including computer-aided design (CAD), computer-aided manufacturing (CAM), 3D printing, and advanced robotics, to enhance production efficiency, reduce costs, and improve product quality. Digital manufacturing leverages data and interconnected systems to optimize manufacturing operations and product lifecycle management.”
 
 *Thai*
 
-Digital Manufacturing คือการประยุกต์ใช้เทคโนโลยีดิจิทัล ข้อมูล และระบบคอมพิวเตอร์ เพื่อสนับสนุนและปรับปรุงกระบวนการผลิต การจัดการห่วงโซ่อุปทาน ผลิตภัณฑ์ และกระบวนการต่าง ๆ ตลอดวงจรชีวิตของผลิตภัณฑ์
+Digital Manufacturing คือการนำเทคโนโลยีดิจิทัลมาใช้ในการออกแบบ ทดสอบ และผลิตสินค้า โดยผสานเครื่องมือ เช่น การจำลอง (Simulation) การแสดงผลแบบสามมิติ (3D Visualization) การวิเคราะห์ข้อมูล (Analytics) และการทำงานร่วมกัน (Collaboration Tools) เพื่อให้สามารถออกแบบผลิตภัณฑ์และกระบวนการผลิตไปพร้อมกัน ช่วยเพิ่มประสิทธิภาพการผลิต ลดต้นทุน และยกระดับคุณภาพของผลิตภัณฑ์
 
-> “Digital Manufacturing ช่วยให้องค์กรสามารถจำลอง วิเคราะห์ และติดตามกระบวนการผลิตแบบดิจิทัลก่อนการผลิตจริง ลดต้นทุน เพิ่มประสิทธิภาพ และลดข้อผิดพลาดในการผลิต” (ChatGPT 5.5)
+> “Digital Manufacturing ช่วยให้องค์กรสามารถจำลองและวิเคราะห์กระบวนการผลิตก่อนการผลิตจริง ลดข้อผิดพลาด เพิ่มประสิทธิภาพการทำงาน และส่งเสริมการทำงานร่วมกันระหว่างทีมออกแบบและทีมวิศวกรรม ทำให้การพัฒนาผลิตภัณฑ์มีความรวดเร็วและแม่นยำมากขึ้น” (ChatGPT 5.5)
 
-> “การนำ Digital Manufacturing มาใช้ช่วยเชื่อมโยงข้อมูลจากเครื่องจักร บุคลากร และระบบสารสนเทศเข้าด้วยกัน ทำให้สามารถติดตามการผลิต วิเคราะห์ข้อมูล และตัดสินใจได้อย่างรวดเร็วและแม่นยำยิ่งขึ้น” (Google Gemini)
+> “การประยุกต์ใช้ Digital Manufacturing ทำให้ข้อมูลจากการออกแบบ การผลิต และการบริหารจัดการผลิตภัณฑ์เชื่อมโยงถึงกันผ่านระบบดิจิทัล ส่งผลให้สามารถติดตาม วิเคราะห์ และปรับปรุงกระบวนการผลิตได้อย่างต่อเนื่อง รองรับแนวคิดอุตสาหกรรม 4.0 และการผลิตอัจฉริยะ” (Google Gemini)
 
 ### *🔗 Sources*
 
-* https://www.ibm.com/think/topics/digital-manufacturing
-* https://www.sw.siemens.com/en-US/digital-manufacturing/
+* (https://www.siemens.com/en-gb/technology/digital-manufacturing/?utm_source=chatgpt.com))
+* (https://www.autodesk.com/solutions/digital-manufacturing?utm_source=chatgpt.com)
