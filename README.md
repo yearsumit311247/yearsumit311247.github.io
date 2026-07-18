@@ -24,6 +24,7 @@
 - [API](API.md)
 - [SESSION](session.md)
 - [BOOTSTARP](bootstrap.md)
+- [Digital Manufacturing](DigitalManufacturing.md)
 ## Quality Attribute
 
 - [Usabillity](https://yearsumit311247.github.io/Usabillity)
