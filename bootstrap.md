@@ -6,7 +6,7 @@
 
 *English (Source 2 - GeeksforGeeks)*
 
-> “Bootstrap is a free and open-source CSS framework directed at responsive, mobile-first front-end web development.”
+> “Bootstrap is a popular front-end framework for building responsive and mobile-first websites. It provides pre-designed CSS, JavaScript components”
 
 *Thai*
 
