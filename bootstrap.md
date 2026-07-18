@@ -1,8 +1,8 @@
 ## 3. Bootstrap
 
-*English (Source 1 - Bootstrap Official)*
+*English (Source 1 - Wikipedia)*
 
-> “Bootstrap is a powerful, feature-packed frontend toolkit. Build anything—from prototype to production—in minutes.”
+> “Bootstrap is a free and open-source CSS framework directed at responsive, mobile-first front-end web development.”
 
 *English (Source 2 - GeeksforGeeks)*
 
@@ -10,13 +10,13 @@
 
 *Thai*
 
-Bootstrap คือชุดเครื่องมือ (Frontend Toolkit) และเฟรมเวิร์ก CSS แบบโอเพนซอร์สที่ช่วยให้นักพัฒนาสามารถสร้างเว็บไซต์และส่วนติดต่อผู้ใช้ได้อย่างรวดเร็ว รองรับการออกแบบเว็บไซต์แบบ Responsive และ Mobile-first เพื่อให้เว็บไซต์แสดงผลได้เหมาะสมกับทุกขนาดหน้าจอ
+Bootstrap คือเฟรมเวิร์ก CSS แบบโอเพนซอร์สที่ใช้สำหรับการพัฒนาเว็บไซต์ฝั่ง Front-end โดยรองรับการออกแบบเว็บไซต์แบบ Responsive และ Mobile-first เพื่อให้เว็บไซต์สามารถแสดงผลได้เหมาะสมกับอุปกรณ์ทุกขนาด
 
-> “Bootstrap ช่วยลดเวลาในการพัฒนาเว็บไซต์ด้วยการมี Components, Grid System และ Utility Classes ที่พร้อมใช้งาน ทำให้นักพัฒนาสามารถสร้างหน้าเว็บที่มีมาตรฐานและรองรับอุปกรณ์หลากหลายได้อย่างสะดวก” (ChatGPT 5.5)
+> “Bootstrap ช่วยให้นักพัฒนาสามารถสร้างเว็บไซต์ได้รวดเร็วขึ้นด้วยองค์ประกอบที่พร้อมใช้งาน เช่น Grid System, Buttons, Forms และ Navigation ทำให้ลดเวลาในการเขียน CSS และ JavaScript ใหม่ทั้งหมด” (ChatGPT 5.5)
 
-> “Bootstrap ได้รับความนิยมอย่างแพร่หลายในการพัฒนาเว็บไซต์ เนื่องจากใช้งานง่าย มีเอกสารประกอบครบถ้วน และสามารถปรับแต่งให้เหมาะกับแต่ละโครงการได้ จึงเหมาะสำหรับทั้งผู้เริ่มต้นและนักพัฒนาเว็บไซต์มืออาชีพ” (Google Gemini)
+> “Bootstrap ได้รับความนิยมในการพัฒนาเว็บไซต์ เพราะมีโครงสร้างมาตรฐาน รองรับการแสดงผลบนหลายอุปกรณ์ และสามารถปรับแต่งให้เหมาะกับแต่ละโครงการได้ง่าย” (Google Gemini)
 
 ### *🔗 Sources*
 
-* https://getbootstrap.com/docs/5.3/getting-started/introduction/
+* https://en.wikipedia.org/wiki/Bootstrap_(front-end_framework)
 * https://www.geeksforgeeks.org/bootstrap/
