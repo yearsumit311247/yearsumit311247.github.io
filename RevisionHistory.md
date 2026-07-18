@@ -1,7 +1,6 @@
 ## 2. Revision History
 
 *English (Source 1 - Connect981)*
-
 > “Revision history is the controlled record of changes made to a document, specification, software component, or system configuration over time.”
 
 *English (Source 2 - Hyperbots)*
