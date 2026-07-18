@@ -1,13 +1,16 @@
 ## 2. Session
 
-*English (Source 1 - MDN Web Docs)*  
-> “A website needs to treat a series of requests from a single client as representing a session.”
+*English (Source 1 - NIST Computer Security Resource Center)*
 
-*English (Source 2 - PHP Manual)*  
-> “Session support in PHP consists of a way to preserve certain data across subsequent accesses.”
+> “A persistent interaction between a subscriber and an endpoint.”
 
-*Thai*  
-Session คือกลุ่มของการร้องขอ (Requests) จากผู้ใช้งานคนเดียวกันที่เว็บไซต์มองว่าเป็นการใช้งานต่อเนื่อง โดยระบบจะเก็บข้อมูลบางอย่างไว้เพื่อให้สามารถจดจำสถานะของผู้ใช้ระหว่างการเข้าถึงเว็บไซต์หลายครั้งได้
+*English (Source 2 - Arcane Web Development)*
+
+> “A server-side storage mechanism that stores information about a user’s interaction with a web application, often used for authentication and state management.”
+
+*Thai*
+
+Session คือการโต้ตอบอย่างต่อเนื่องระหว่างผู้ใช้งานกับระบบ และเป็นกลไกสำหรับจัดเก็บข้อมูลไว้บนฝั่งเซิร์ฟเวอร์ เพื่อบันทึกข้อมูลการใช้งานของผู้ใช้ เช่น การยืนยันตัวตน (Authentication) และการจัดการสถานะ (State Management) ระหว่างการใช้งานเว็บไซต์
 
 > “Session เป็นกลไกสำคัญในการพัฒนาเว็บไซต์ เนื่องจาก HTTP เป็นโปรโตคอลแบบ Stateless ที่ไม่สามารถจดจำผู้ใช้ระหว่างการร้องขอแต่ละครั้งได้ จึงต้องอาศัย Session ในการเก็บข้อมูล เช่น สถานะการเข้าสู่ระบบ สิทธิ์การใช้งาน และข้อมูลชั่วคราวต่าง ๆ เพื่อให้ผู้ใช้สามารถใช้งานเว็บไซต์ได้อย่างต่อเนื่อง” (ChatGPT 5.5)
 
@@ -15,5 +18,5 @@ Session คือกลุ่มของการร้องขอ (Requests) 
 
 ### *🔗 Sources*
 
-* [MDN Web Docs - Session Management](https://developer.mozilla.org/en-US/docs/Web/Security/Authentication/Session_management)
-* [PHP Manual - Sessions](https://www.php.net/manual/en/book.session.php)
+* https://csrc.nist.gov/glossary/term/Session
+* https://www.arcane-web-design.com/glossary/web-development/session
