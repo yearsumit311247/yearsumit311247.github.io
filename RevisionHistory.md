@@ -1,4 +1,3 @@
-
 ## 2. Revision History
 
 *English (Source 1 - Connect981)*
