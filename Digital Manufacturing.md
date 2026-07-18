@@ -2,21 +2,21 @@
 
 *English (Source 1 - IBM)*
 
-> “Digital manufacturing is the use of integrated, computer-based systems to improve manufacturing operations through the use of digital technologies.”
+> “Digital manufacturing is the application of computer systems to manufacturing services, supply chains, products and processes.”
 
 *English (Source 2 - Siemens)*
 
-> “Digital manufacturing uses digital tools and data to simulate, optimize and manage manufacturing processes throughout the product lifecycle.”
+> “Digital manufacturing uses digital tools and data to improve manufacturing processes throughout the product lifecycle.”
 
 *Thai*
 
-Digital Manufacturing คือการนำเทคโนโลยีดิจิทัล ข้อมูล และระบบคอมพิวเตอร์มาใช้ในการวางแผน จำลอง ปรับปรุง และบริหารจัดการกระบวนการผลิต เพื่อเพิ่มประสิทธิภาพ คุณภาพ และความยืดหยุ่นของการผลิต
+Digital Manufacturing คือการประยุกต์ใช้เทคโนโลยีดิจิทัล ข้อมูล และระบบคอมพิวเตอร์ เพื่อสนับสนุนและปรับปรุงกระบวนการผลิต การจัดการห่วงโซ่อุปทาน ผลิตภัณฑ์ และกระบวนการต่าง ๆ ตลอดวงจรชีวิตของผลิตภัณฑ์
 
-> “Digital Manufacturing ช่วยให้ผู้ผลิตสามารถจำลองกระบวนการผลิตก่อนลงมือจริง วิเคราะห์ข้อมูลแบบเรียลไทม์ และลดต้นทุนหรือข้อผิดพลาดในการผลิต” (ChatGPT 5.5)
+> “Digital Manufacturing ช่วยให้องค์กรสามารถจำลอง วิเคราะห์ และติดตามกระบวนการผลิตแบบดิจิทัลก่อนการผลิตจริง ลดต้นทุน เพิ่มประสิทธิภาพ และลดข้อผิดพลาดในการผลิต” (ChatGPT 5.5)
 
-> “การประยุกต์ใช้ Digital Manufacturing ร่วมกับ IoT, AI และระบบอัตโนมัติ ช่วยให้โรงงานสามารถติดตามข้อมูลการผลิตและตัดสินใจได้อย่างแม่นยำมากขึ้น” (Google Gemini)
+> “การนำ Digital Manufacturing มาใช้ช่วยเชื่อมโยงข้อมูลจากเครื่องจักร บุคลากร และระบบสารสนเทศเข้าด้วยกัน ทำให้สามารถติดตามการผลิต วิเคราะห์ข้อมูล และตัดสินใจได้อย่างรวดเร็วและแม่นยำยิ่งขึ้น” (Google Gemini)
 
 ### *🔗 Sources*
 
 * https://www.ibm.com/think/topics/digital-manufacturing
-* https://plm.sw.siemens.com/en-US/digital-manufacturing/
+* https://www.sw.siemens.com/en-US/digital-manufacturing/
