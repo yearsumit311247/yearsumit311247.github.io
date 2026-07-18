@@ -24,7 +24,7 @@
 - [API](API.md)
 - [SESSION](session.md)
 - [BOOTSTARP](bootstrap.md)
-- [Digital Manufacturing](Digital Manufacturing.md)
+- [Digital Manufacturing](DigitalManufacturing.md)
 - [Revision History](RevisionHistory.md)
 ## Quality Attribute
 
