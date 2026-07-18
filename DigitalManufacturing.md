@@ -1,5 +1,4 @@
 ## 1. Digital Manufacturing
-
 *English (Source 1)*
 
 > “Digital manufacturing integrates simulation, 3D visualization, analytics and collaboration tools to create simultaneous product and manufacturing process definitions, enabling industries to design entire manufacturing processes digitally, fostering collaboration between engineers and designers.”
