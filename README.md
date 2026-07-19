@@ -24,6 +24,7 @@
 - [API](API.md)
 - [SESSION](session.md)
 - [BOOTSTARP](bootstrap.md)
+- [Windows](Windows.md)
 - [Digital Manufacturing](DigitalManufacturing.md)
 - [Revision History](RevisionHistory.md)
 
