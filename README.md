@@ -21,7 +21,7 @@
 
 # 📂 IT Keywords Project
 
-- [Windows](Windows.md)
+
 - [SESSION](session.md)
 - [BOOTSTARP](bootstrap.md)
 - [Digital Manufacturing](DigitalManufacturing.md)
